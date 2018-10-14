@@ -1,6 +1,7 @@
 # Laravel_Educational_Management_Application
 Laravel Based Educational Managment System With Admin Student Parents Teacher Panel
 <br>
+First you have install the composer file.
 Step 1:- Unzip The folder<br>
 Step 2:- Open Cmd command port <br>
 Step 3:- Go to the school_management directory location.<br>
